@@ -119,7 +119,7 @@ export default function Home() {
       </Box>
     </Modal>
     <Button 
-      variant="container"
+      variant="contained"
       onClick={()=>{
         handleOpen()
       }}
